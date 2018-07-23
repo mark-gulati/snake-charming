@@ -7,7 +7,7 @@ import gmaps_api_key
 gmaps_key=gmaps_api_key.gmaps_key #import key. This key needs to be in a `gmaps_api_key.py` file in the path
 
 gmaps=googlemaps.Client(key=gmaps_key)
-inx = input('Enter location (q to quit): ')
+inx = input('Enter location: ')
 
 geocode_result=gmaps.geocode(inx)
 print('Formatted Address: ' + geocode_result[0]['formatted_address'])
