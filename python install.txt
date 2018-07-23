@@ -1,0 +1,107 @@
+http://milq.github.io/install-python-scientific-computing-ubuntu-debian/
+
+sudo apt-get install python3 python3-pip libatlas-dev
+sudo apt-get install libatlas-dev
+pip3 install scikit-learn
+
+
+pip3 install 'chargebee>=2,<3'
+chargebee.configure("{site_api_key}","{site}")
+
+Request a response from the ISS API: 
+nyc = requests.get("http://api.open-notify.org/iss-pass.json", {"lat": 40.71, "lon": -74})
+
+Print the response: 
+print(nyc.text)
+
+Write the response to a text/json file: 
+with open('data.json','w') as outfile:
+...     json.dump(nyc.text,outfile);
+
+
+curl http://checkip.amazonaws.com
+
+pip3 install --upgrade setuptools
+pip3 install googlemaps
+
+import googlemaps
+>>> from datetime import datetime
+gmaps=googlemaps.Client(key='')
+geocode_result=gmaps.geocode('Berlin, Germany')
+print(geocode_result)
+[{'formatted_address': 'Berlin, Germany', 'place_id': 'ChIJAVkDPzdOqEcRcDteW0YgIQQ', 'address_components': [{'short_name': 'Berlin', 'types': ['locality', 'political'], 'long_name': 'Berlin'}, {'short_name': 'Berlin', 'types': ['administrative_area_level_1', 'political'], 'long_name': 'Berlin'}, {'short_name': 'DE', 'types': ['country', 'political'], 'long_name': 'Germany'}], 'geometry': {'location_type': 'APPROXIMATE', 'viewport': {'southwest': {'lng': 13.088346, 'lat': 52.338234}, 'northeast': {'lng': 13.7611175, 'lat': 52.6754542}}, 'location': {'lng': 13.404954, 'lat': 52.52000659999999}, 'bounds': {'southwest': {'lng': 13.088346, 'lat': 52.338234}, 'northeast': {'lng': 13.7611175, 'lat': 52.6754542}}}, 'types': ['locality', 'political']}]
+
+type(geocode_result)
+<class 'list'>
+
+How to JSON-encode in Python: 
+
+Python lists translate to JSON arrays. What it is giving you is a perfectly valid JSON string that could be used in a Javascript application. To get what you expected, you would need to use a dict:
+
+>>> json.dumps({'apple': 'cat', 'banana':'dog', 'pear':'fish'})
+'{"pear": "fish", "apple": "cat", "banana": "dog"}'
+
+So to JSON-encode the above geocode result, use: 
+gcr=json.dumps(geocode_result) 
+OR 
+
+gcr = json.dumps([{'formatted_address': 'Berlin, Germany', 'place_id': 'ChIJAVkDPzdOqEcRcDteW0YgIQQ', 'address_compo
+nents': [{'short_name': 'Berlin', 'types': ['locality', 'political'], 'long_name': 'Berlin'}, {'short_name': 'Berlin', '
+types': ['administrative_area_level_1', 'political'], 'long_name': 'Berlin'}, {'short_name': 'DE', 'types': ['country',
+'political'], 'long_name': 'Germany'}], 'geometry': {'location_type': 'APPROXIMATE', 'viewport': {'southwest': {'lng': 1
+3.088346, 'lat': 52.338234}, 'northeast': {'lng': 13.7611175, 'lat': 52.6754542}}, 'location': {'lng': 13.404954, 'lat':
+ 52.52000659999999}, 'bounds': {'southwest': {'lng': 13.088346, 'lat': 52.338234}, 'northeast': {'lng': 13.7611175, 'lat
+': 52.6754542}}}, 'types': ['locality', 'political']}])
+
+Above - use dumps or loads? 
+Use dumps to convert string or list to json dict, use loads to convert a dict to string. 
+
+print(geocode_result[0]['geometry']['location'])
+{'lng': 13.404954, 'lat': 52.52000659999999}
+
+vpn-us1.openvpn.net (52.53.132.255)
+vpn-eu1.openvpn.net (18.196.13.189)
+
+[] square brackets means its a list. 
+{} curly brackets means its a dictionary. 
+
+To loop through a list: 
+for item in data['objects']: 
+	print ("item is: "+ str(item))
+or... 
+	print(item['name']) 
+and you can additional attributes, which go on separate lines, like so: 
+	print(item['attribute'])
+or you can separate them by commas, in which case you can put a comma in between
+	print(item['name']), print(item['attribute'])
+
+In order to use the string formatter in python you can use curly brackets, like so: 
+nav_request = 'origin={}&destination={}&key={}'.format(origin, destination, api_key)
+
+More homegrown appraoch rather than converting authentication / passwords / username to encrytpted details. FTPLIB is just the example. "pass.csv" is the csv file name
+
+Save password in CSV like below :
+
+user_name
+
+user_password
+
+(With no column heading)
+
+Reading the CSV and saving it to a list.
+
+Using List elelments as authetntication details.
+
+Full code:
+
+import os
+import ftplib
+import csv 
+cred_detail = []
+os.chdir("Folder where the csv file is stored")
+for row in csv.reader(open("pass.csv","rb")):       
+        cred_detail.append(row)
+ftp = ftplib.FTP('server_name',cred_detail[0][0],cred_detail[1][0])
+
+https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b 
+
