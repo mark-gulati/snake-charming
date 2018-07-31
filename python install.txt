@@ -104,4 +104,3 @@ for row in csv.reader(open("pass.csv","rb")):
 ftp = ftplib.FTP('server_name',cred_detail[0][0],cred_detail[1][0])
 
 https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b 
-
