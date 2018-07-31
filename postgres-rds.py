@@ -9,5 +9,8 @@ with open('subscriptions.json','r') as infile:
 
 #print(subscriptions)
 #print(type(subscriptions)) # dict
+
+print (len(subscriptions))
+i = 0
 for i in range(0, len(subscriptions)):
     print("subscription_id: ",subscriptions['response'][i]['subscription']['id'])
