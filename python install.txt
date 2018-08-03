@@ -117,3 +117,5 @@ or...
 >>> cur.query # calling this attribute will show the body of the last query sent to the backend (including bound arguments) as a bytes string. 
 
 https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
+
+What is %s, %d and %f http://www.diveintopython.net/native_data_types/formatting_strings.html
