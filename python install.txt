@@ -104,3 +104,16 @@ for row in csv.reader(open("pass.csv","rb")):
 ftp = ftplib.FTP('server_name',cred_detail[0][0],cred_detail[1][0])
 
 https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b 
+
+For PsycoPG2: 
+https://www.lewuathe.com/python/postgresql/remind-for-insert-into-with-psycopg2.html
+conn = psycopg2.connect("dbname=_dbname_ user=_user_ host=_host_ password=_password_")
+>>> cur = conn.cursor()
+>>> cur.execute("CREATE TABLE load_json (id serial PRIMARY KEY, payload json);")
+>>> cur.execute("SELECT COUNT(*) FROM load_json;")
+>>> results = cur.fetchall() # to get all rows from the cursor object
+or... 
+>>> cur.fetchmany(2) # to get only two rows 
+>>> cur.query # calling this attribute will show the body of the last query sent to the backend (including bound arguments) as a bytes string. 
+
+https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
