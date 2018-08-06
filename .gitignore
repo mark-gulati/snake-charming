@@ -4,3 +4,5 @@ gmaps_api_key.py
 secrets/gmaps_api_keys.txt
 subscriptions.json
 twitter-secret.py
+twitter_secret.py
+__pycache__/twitter_secret.cpython-37.pyc
