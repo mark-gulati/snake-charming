@@ -119,3 +119,18 @@ or...
 https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
 
 What is %s, %d and %f http://www.diveintopython.net/native_data_types/formatting_strings.html
+
+How to add a calculated column to a pandas dataframe: 
+import pandas as pd
+
+frame = pd.read_csv('my_data.csv')
+
+frame = frame.assign(More_Than_One=(frame.party_size > 1))
+frame = frame.assign(Total_Cost=frame.party_size * frame.ticket_price)
+OR
+import pandas as pd
+
+df= pd.read_csv('my_data.csv')
+
+df['More_Than_One'] = df['party_size'] > 1
+df['Total_Cost'] = df['party_size'] * df['ticket_price']
