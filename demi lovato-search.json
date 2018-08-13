@@ -1,0 +1,4057 @@
+{
+    "statuses": [
+        {
+            "created_at": "Mon Aug 06 20:20:41 +0000 2018",
+            "id": 1026563733508816896,
+            "id_str": "1026563733508816896",
+            "text": "\u26a1\ufe0f \u201cDemi Lovato has been discharged from the hospital\u201d\n\nhttps://t.co/ctG0kIjjp9",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ctG0kIjjp9",
+                        "expanded_url": "https://twitter.com/i/moments/1026526452316028928",
+                        "display_url": "twitter.com/i/moments/1026\u2026",
+                        "indices": [
+                            56,
+                            79
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 972257892026986498,
+                "id_str": "972257892026986498",
+                "name": "Off The Record",
+                "screen_name": "officialotrpod",
+                "location": "",
+                "description": "",
+                "url": "https://t.co/klGdaXsxut",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/klGdaXsxut",
+                                "expanded_url": "https://soundcloud.com/user-217857958/ep-13-another-round-feat-kriss",
+                                "display_url": "soundcloud.com/user-217857958\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 35,
+                "friends_count": 141,
+                "listed_count": 0,
+                "created_at": "Fri Mar 09 23:48:39 +0000 2018",
+                "favourites_count": 41,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1344,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/979782988631130113/6-E4sdBr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/979782988631130113/6-E4sdBr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/972257892026986498/1522433475",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:41 +0000 2018",
+            "id": 1026563732552466434,
+            "id_str": "1026563732552466434",
+            "text": "RT @sopitas: \"Ahora necesito tiempo para sanar y concentrarme en mi sobriedad\"; Demi Lovato regresa con un emotivo mensaje para sus fans de\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "sopitas",
+                        "name": "Sopitas",
+                        "id": 3362741,
+                        "id_str": "3362741",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 942079634690146304,
+                "id_str": "942079634690146304",
+                "name": "Aitana Manrique",
+                "screen_name": "AitanaManriqueB",
+                "location": "Alicante, Espa\u00f1a",
+                "description": "SG: Se tu misma, no hay nadie mejor\nNo ser\u00e9 perfecta, pero siempre soy yo misma\n#STAYSTRONG #LOVATIC\n+ ARIANA G,JUSTIN B,MICHAEL JACKSON,SACMJJ #LOVEMUSIC\ud83d\udc9f\ud83d\ude3b\ud83d\ude0d",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 605,
+                "friends_count": 1404,
+                "listed_count": 0,
+                "created_at": "Sat Dec 16 17:11:02 +0000 2017",
+                "favourites_count": 5644,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 20274,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1023269989111881728/NcI9zHAK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023269989111881728/NcI9zHAK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/942079634690146304/1532695813",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Aug 05 22:24:05 +0000 2018",
+                "id": 1026232402421731329,
+                "id_str": "1026232402421731329",
+                "text": "\"Ahora necesito tiempo para sanar y concentrarme en mi sobriedad\"; Demi Lovato regresa con un emotivo mensaje para\u2026 https://t.co/UStVgqZf3Z",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/UStVgqZf3Z",
+                            "expanded_url": "https://twitter.com/i/web/status/1026232402421731329",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 3362741,
+                    "id_str": "3362741",
+                    "name": "Sopitas",
+                    "screen_name": "sopitas",
+                    "location": "Mexico",
+                    "description": "Un tipo muy afortunado!\n\nContacto: sopitas@sopitas.com",
+                    "url": "http://t.co/jomeE6HI0O",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/jomeE6HI0O",
+                                    "expanded_url": "http://www.sopitas.com",
+                                    "display_url": "sopitas.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2961131,
+                    "friends_count": 3113,
+                    "listed_count": 6470,
+                    "created_at": "Tue Apr 03 21:18:19 +0000 2007",
+                    "favourites_count": 2205,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 148367,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "9AE4E8",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/911376048960413696/dptri3xB_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/911376048960413696/dptri3xB_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3362741/1495033410",
+                    "profile_link_color": "0000FF",
+                    "profile_sidebar_border_color": "87BC44",
+                    "profile_sidebar_fill_color": "E0FF92",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 165,
+                "favorite_count": 930,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 165,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:40 +0000 2018",
+            "id": 1026563729922682880,
+            "id_str": "1026563729922682880",
+            "text": "RT @enews: Demi Lovato was discharged from the hospital on Saturday and flew to a rehab facility where she will stay for an extended period\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "enews",
+                        "name": "E! News",
+                        "id": 2883841,
+                        "id_str": "2883841",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 362844115,
+                "id_str": "362844115",
+                "name": "\ud83d\udc8b",
+                "screen_name": "rusteddpetals",
+                "location": "EXO, DDL & BTS",
+                "description": "[insert witty bio here]",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1780,
+                "friends_count": 920,
+                "listed_count": 81,
+                "created_at": "Sat Aug 27 02:30:46 +0000 2011",
+                "favourites_count": 51581,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 177309,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "BADFCD",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1018703872397926401/-wzuU8h6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018703872397926401/-wzuU8h6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/362844115/1530853635",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Aug 06 15:27:42 +0000 2018",
+                "id": 1026490003638116354,
+                "id_str": "1026490003638116354",
+                "text": "Demi Lovato was discharged from the hospital on Saturday and flew to a rehab facility where she will stay for an ex\u2026 https://t.co/s9X7G39d4p",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/s9X7G39d4p",
+                            "expanded_url": "https://twitter.com/i/web/status/1026490003638116354",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2883841,
+                    "id_str": "2883841",
+                    "name": "E! News",
+                    "screen_name": "enews",
+                    "location": "Hollywood, CA",
+                    "description": "Entertainment news from https://t.co/G81dlZzugA\u2014watch weeknights at 7p & 11p for the latest!",
+                    "url": "https://t.co/J6mkqdLswn",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/J6mkqdLswn",
+                                    "expanded_url": "http://www.eonline.com",
+                                    "display_url": "eonline.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/G81dlZzugA",
+                                    "expanded_url": "http://eonline.com",
+                                    "display_url": "eonline.com",
+                                    "indices": [
+                                        24,
+                                        47
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 11512981,
+                    "friends_count": 119034,
+                    "listed_count": 35430,
+                    "created_at": "Thu Mar 29 19:42:27 +0000 2007",
+                    "favourites_count": 29718,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 220627,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/724754009869848576/otTK78HH_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/724754009869848576/otTK78HH_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2883841/1471632751",
+                    "profile_link_color": "00B0F0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "F0F0F0",
+                    "profile_text_color": "0D0D0D",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 444,
+                "favorite_count": 1698,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 444,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:40 +0000 2018",
+            "id": 1026563728928657409,
+            "id_str": "1026563728928657409",
+            "text": "RT @lovingyoudemi: USTEDES SON MUY J\u00d3VENES PERO HUBO UNA \u00c9POCA EN LA QUE DEMI LOVATO, MILEY CYRUS, SELENA GOMEZ Y LOS JONAS BROTHERS ERAN L\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "lovingyoudemi",
+                        "name": "stay strong demi",
+                        "id": 200133143,
+                        "id_str": "200133143",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 964236719561347072,
+                "id_str": "964236719561347072",
+                "name": "\u2022YOSSE\u2022",
+                "screen_name": "Yoselin39032386",
+                "location": "Durazno, Uruguay",
+                "description": "Nuevo\ud83d\ude1b\n15 a\u00f1os \ud83d\udcab\nvirgo\ud83d\ude46\nnacional \u2764\ud83d\udc99\ninsta: @yoseeelin_morales\nsnap: @yosse6161\ncolo \ud83d\ude0d\nRomeo Santos \ud83d\udc51\n\ud83c\udf38Mientras nadie lo sepa nadie lo arruinara\ud83c\udf38",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 142,
+                "friends_count": 148,
+                "listed_count": 0,
+                "created_at": "Thu Feb 15 20:35:23 +0000 2018",
+                "favourites_count": 1491,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3272,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1025359702715191298/i1M5a82a_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025359702715191298/i1M5a82a_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/964236719561347072/1530736394",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Aug 05 03:56:02 +0000 2018",
+                "id": 1025953551045017600,
+                "id_str": "1025953551045017600",
+                "text": "USTEDES SON MUY J\u00d3VENES PERO HUBO UNA \u00c9POCA EN LA QUE DEMI LOVATO, MILEY CYRUS, SELENA GOMEZ Y LOS JONAS BROTHERS E\u2026 https://t.co/AgEZGaKSFa",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/AgEZGaKSFa",
+                            "expanded_url": "https://twitter.com/i/web/status/1025953551045017600",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 200133143,
+                    "id_str": "200133143",
+                    "name": "stay strong demi",
+                    "screen_name": "lovingyoudemi",
+                    "location": "m\u00e9xico ",
+                    "description": "I do it every time, It's only when I'm lonely | fan account",
+                    "url": "https://t.co/zOk7wgzxWk",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/zOk7wgzxWk",
+                                    "expanded_url": "https://curiouscat.me/lovingyoudemi",
+                                    "display_url": "curiouscat.me/lovingyoudemi",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 12197,
+                    "friends_count": 7441,
+                    "listed_count": 145,
+                    "created_at": "Fri Oct 08 14:41:28 +0000 2010",
+                    "favourites_count": 37,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 64067,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1022341595482312705/i0KLsgV0_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022341595482312705/i0KLsgV0_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/200133143/1532715501",
+                    "profile_link_color": "E610DF",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "C75BC7",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 5653,
+                "favorite_count": 12579,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 5653,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:37 +0000 2018",
+            "id": 1026563719084617729,
+            "id_str": "1026563719084617729",
+            "text": "RT @fallingovddl: demi lovato voc\u00ea quer o mundo? eu te dou https://t.co/lHWPEbFJwo",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "fallingovddl",
+                        "name": "fran loves demi",
+                        "id": 2895015437,
+                        "id_str": "2895015437",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1026229334972026880,
+                        "id_str": "1026229334972026880",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dj3mJJkX0AAXWA2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dj3mJJkX0AAXWA2.jpg",
+                        "url": "https://t.co/lHWPEbFJwo",
+                        "display_url": "pic.twitter.com/lHWPEbFJwo",
+                        "expanded_url": "https://twitter.com/fallingovddl/status/1026229361215557633/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 768,
+                                "h": 614,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 544,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 768,
+                                "h": 614,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1026229361215557633,
+                        "source_status_id_str": "1026229361215557633",
+                        "source_user_id": 2895015437,
+                        "source_user_id_str": "2895015437"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1026229334972026880,
+                        "id_str": "1026229334972026880",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dj3mJJkX0AAXWA2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dj3mJJkX0AAXWA2.jpg",
+                        "url": "https://t.co/lHWPEbFJwo",
+                        "display_url": "pic.twitter.com/lHWPEbFJwo",
+                        "expanded_url": "https://twitter.com/fallingovddl/status/1026229361215557633/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 768,
+                                "h": 614,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 544,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 768,
+                                "h": 614,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1026229361215557633,
+                        "source_status_id_str": "1026229361215557633",
+                        "source_user_id": 2895015437,
+                        "source_user_id_str": "2895015437"
+                    },
+                    {
+                        "id": 1026229349010337792,
+                        "id_str": "1026229349010337792",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dj3mJ93XcAAgAvs.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dj3mJ93XcAAgAvs.jpg",
+                        "url": "https://t.co/lHWPEbFJwo",
+                        "display_url": "pic.twitter.com/lHWPEbFJwo",
+                        "expanded_url": "https://twitter.com/fallingovddl/status/1026229361215557633/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 544,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 719,
+                                "h": 575,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 719,
+                                "h": 575,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1026229361215557633,
+                        "source_status_id_str": "1026229361215557633",
+                        "source_user_id": 2895015437,
+                        "source_user_id_str": "2895015437"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 4745015241,
+                "id_str": "4745015241",
+                "name": "Anna",
+                "screen_name": "AnnaRuiz31",
+                "location": "Goi\u00e2nia, Brasil",
+                "description": "Just keep it simple.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 895,
+                "friends_count": 827,
+                "listed_count": 2,
+                "created_at": "Fri Jan 08 14:11:24 +0000 2016",
+                "favourites_count": 5874,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 20863,
+                "lang": "pt",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1025782652782223360/VvZuYLMI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025782652782223360/VvZuYLMI_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4745015241/1533400134",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Aug 05 22:12:00 +0000 2018",
+                "id": 1026229361215557633,
+                "id_str": "1026229361215557633",
+                "text": "demi lovato voc\u00ea quer o mundo? eu te dou https://t.co/lHWPEbFJwo",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1026229334972026880,
+                            "id_str": "1026229334972026880",
+                            "indices": [
+                                41,
+                                64
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dj3mJJkX0AAXWA2.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dj3mJJkX0AAXWA2.jpg",
+                            "url": "https://t.co/lHWPEbFJwo",
+                            "display_url": "pic.twitter.com/lHWPEbFJwo",
+                            "expanded_url": "https://twitter.com/fallingovddl/status/1026229361215557633/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 768,
+                                    "h": 614,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 544,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 768,
+                                    "h": 614,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1026229334972026880,
+                            "id_str": "1026229334972026880",
+                            "indices": [
+                                41,
+                                64
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dj3mJJkX0AAXWA2.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dj3mJJkX0AAXWA2.jpg",
+                            "url": "https://t.co/lHWPEbFJwo",
+                            "display_url": "pic.twitter.com/lHWPEbFJwo",
+                            "expanded_url": "https://twitter.com/fallingovddl/status/1026229361215557633/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 768,
+                                    "h": 614,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 544,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 768,
+                                    "h": 614,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1026229349010337792,
+                            "id_str": "1026229349010337792",
+                            "indices": [
+                                41,
+                                64
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dj3mJ93XcAAgAvs.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dj3mJ93XcAAgAvs.jpg",
+                            "url": "https://t.co/lHWPEbFJwo",
+                            "display_url": "pic.twitter.com/lHWPEbFJwo",
+                            "expanded_url": "https://twitter.com/fallingovddl/status/1026229361215557633/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 544,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 719,
+                                    "h": 575,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 719,
+                                    "h": 575,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "pt",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2895015437,
+                    "id_str": "2895015437",
+                    "name": "fran loves demi",
+                    "screen_name": "fallingovddl",
+                    "location": "demetria devonne lovato ",
+                    "description": "oh no here we go again",
+                    "url": "https://t.co/hU7DH29U0k",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/hU7DH29U0k",
+                                    "expanded_url": "https://twitter.com/ddlovato/status/270448294788997120",
+                                    "display_url": "twitter.com/ddlovato/statu\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 20445,
+                    "friends_count": 12921,
+                    "listed_count": 143,
+                    "created_at": "Thu Nov 27 19:20:32 +0000 2014",
+                    "favourites_count": 21801,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 55944,
+                    "lang": "pt",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1025539470140104704/vOQ1WXfe_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025539470140104704/vOQ1WXfe_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2895015437/1533342638",
+                    "profile_link_color": "981CEB",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 351,
+                "favorite_count": 504,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "pt"
+            },
+            "is_quote_status": false,
+            "retweet_count": 351,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:37 +0000 2018",
+            "id": 1026563718392541184,
+            "id_str": "1026563718392541184",
+            "text": "RT @enews: Demi Lovato has left the hospital and flown to a rehab facility where she will stay for an extended period of time. https://t.co\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "enews",
+                        "name": "E! News",
+                        "id": 2883841,
+                        "id_str": "2883841",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 993191732555722752,
+                "id_str": "993191732555722752",
+                "name": "PRAY FOR DEMI \u2764",
+                "screen_name": "Mel85123941",
+                "location": "Picardie, France",
+                "description": "Sired to Damon Salvatore \u2764 #Seriesaddict #championdumonde2k18 \ud83c\uddeb\ud83c\uddf7 #lovatic #selenator #littlemonster Delena Forever \ud83d\udd25",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 26,
+                "friends_count": 158,
+                "listed_count": 0,
+                "created_at": "Sun May 06 18:12:16 +0000 2018",
+                "favourites_count": 563,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1280,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1014537482829000705/KIglzU0e_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014537482829000705/KIglzU0e_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/993191732555722752/1531593010",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Aug 06 17:30:00 +0000 2018",
+                "id": 1026520781340073986,
+                "id_str": "1026520781340073986",
+                "text": "Demi Lovato has left the hospital and flown to a rehab facility where she will stay for an extended period of time. https://t.co/EDYlhSoia1",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1026497715176394752,
+                            "id_str": "1026497715176394752",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dj7altRX0AAzAZD.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dj7altRX0AAzAZD.jpg",
+                            "url": "https://t.co/EDYlhSoia1",
+                            "display_url": "pic.twitter.com/EDYlhSoia1",
+                            "expanded_url": "https://twitter.com/enews/status/1026520781340073986/video/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 560,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 560,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 560,
+                                    "h": 315,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1026497715176394752,
+                            "id_str": "1026497715176394752",
+                            "indices": [
+                                116,
+                                139
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dj7altRX0AAzAZD.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dj7altRX0AAzAZD.jpg",
+                            "url": "https://t.co/EDYlhSoia1",
+                            "display_url": "pic.twitter.com/EDYlhSoia1",
+                            "expanded_url": "https://twitter.com/enews/status/1026520781340073986/video/1",
+                            "type": "video",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 560,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 560,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 560,
+                                    "h": 315,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 44800,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1026497715176394752/pl/4OthdXGK6tRBDNSJ.m3u8?tag=8"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1026497715176394752/vid/640x360/_gEgKFtzAfiaoews.mp4?tag=8"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1026497715176394752/vid/1280x720/nDJMIOUKMcuqHcjJ.mp4?tag=8"
+                                    },
+                                    {
+                                        "bitrate": 288000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1026497715176394752/vid/320x180/-lvYwvXMV87rxGS9.mp4?tag=8"
+                                    }
+                                ]
+                            },
+                            "additional_media_info": {
+                                "title": "Demi Lovato Leaves Hospital Almost 2 Weeks After Overdose",
+                                "description": "",
+                                "call_to_actions": {
+                                    "visit_site": {
+                                        "url": "https://www.eonline.com/news/955230/demi-lovato-leaves-hospital-almost-2-weeks-after-overdose"
+                                    }
+                                },
+                                "embeddable": true,
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2883841,
+                    "id_str": "2883841",
+                    "name": "E! News",
+                    "screen_name": "enews",
+                    "location": "Hollywood, CA",
+                    "description": "Entertainment news from https://t.co/G81dlZzugA\u2014watch weeknights at 7p & 11p for the latest!",
+                    "url": "https://t.co/J6mkqdLswn",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/J6mkqdLswn",
+                                    "expanded_url": "http://www.eonline.com",
+                                    "display_url": "eonline.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/G81dlZzugA",
+                                    "expanded_url": "http://eonline.com",
+                                    "display_url": "eonline.com",
+                                    "indices": [
+                                        24,
+                                        47
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 11512981,
+                    "friends_count": 119034,
+                    "listed_count": 35430,
+                    "created_at": "Thu Mar 29 19:42:27 +0000 2007",
+                    "favourites_count": 29718,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 220627,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/724754009869848576/otTK78HH_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/724754009869848576/otTK78HH_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2883841/1471632751",
+                    "profile_link_color": "00B0F0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "F0F0F0",
+                    "profile_text_color": "0D0D0D",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 146,
+                "favorite_count": 675,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 146,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:37 +0000 2018",
+            "id": 1026563715880116225,
+            "id_str": "1026563715880116225",
+            "text": "AP Source: Demi Lovato released from hospital. https://t.co/kJ0GuGLub7",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/kJ0GuGLub7",
+                        "expanded_url": "https://mynbc15.com//news/entertainment/ap-source-demi-lovato-released-from-hospital",
+                        "display_url": "mynbc15.com//news/entertai\u2026",
+                        "indices": [
+                            47,
+                            70
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 41275340,
+                "id_str": "41275340",
+                "name": "Kym Anderson",
+                "screen_name": "Kym_nbc15",
+                "location": "Mobile, Alabama",
+                "description": "Anchor for NBC 15 News",
+                "url": "https://t.co/cbWWVy1Vpc",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/cbWWVy1Vpc",
+                                "expanded_url": "http://www.mynbc15.com",
+                                "display_url": "mynbc15.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2579,
+                "friends_count": 595,
+                "listed_count": 37,
+                "created_at": "Wed May 20 02:25:45 +0000 2009",
+                "favourites_count": 4375,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11856,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2350415848/tjb21mjwdncq23smwdo7_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2350415848/tjb21mjwdncq23smwdo7_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:28 +0000 2018",
+            "id": 1026563680387952640,
+            "id_str": "1026563680387952640",
+            "text": "RT @Jaack_trouble: Traduccion del comunicado de Demi! @ddlovato DEMI LOVATO https://t.co/VADGBS0C8A",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Jaack_trouble",
+                        "name": "\ud835\udcd9\ud835\udcea\ud835\udcec\ud835\udcf4\ud835\udcf2\ud835\udcee\u2728",
+                        "id": 483383569,
+                        "id_str": "483383569",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "ddlovato",
+                        "name": "Demi Lovato",
+                        "id": 21111883,
+                        "id_str": "21111883",
+                        "indices": [
+                            54,
+                            63
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1026230694123433989,
+                        "id_str": "1026230694123433989",
+                        "indices": [
+                            76,
+                            99
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dj3nYQzUcAUyObM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dj3nYQzUcAUyObM.jpg",
+                        "url": "https://t.co/VADGBS0C8A",
+                        "display_url": "pic.twitter.com/VADGBS0C8A",
+                        "expanded_url": "https://twitter.com/Jaack_trouble/status/1026230754563375104/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1365,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1026230754563375104,
+                        "source_status_id_str": "1026230754563375104",
+                        "source_user_id": 483383569,
+                        "source_user_id_str": "483383569"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1026230694123433989,
+                        "id_str": "1026230694123433989",
+                        "indices": [
+                            76,
+                            99
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dj3nYQzUcAUyObM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dj3nYQzUcAUyObM.jpg",
+                        "url": "https://t.co/VADGBS0C8A",
+                        "display_url": "pic.twitter.com/VADGBS0C8A",
+                        "expanded_url": "https://twitter.com/Jaack_trouble/status/1026230754563375104/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1365,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1026230754563375104,
+                        "source_status_id_str": "1026230754563375104",
+                        "source_user_id": 483383569,
+                        "source_user_id_str": "483383569"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 942079634690146304,
+                "id_str": "942079634690146304",
+                "name": "Aitana Manrique",
+                "screen_name": "AitanaManriqueB",
+                "location": "Alicante, Espa\u00f1a",
+                "description": "SG: Se tu misma, no hay nadie mejor\nNo ser\u00e9 perfecta, pero siempre soy yo misma\n#STAYSTRONG #LOVATIC\n+ ARIANA G,JUSTIN B,MICHAEL JACKSON,SACMJJ #LOVEMUSIC\ud83d\udc9f\ud83d\ude3b\ud83d\ude0d",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 605,
+                "friends_count": 1404,
+                "listed_count": 0,
+                "created_at": "Sat Dec 16 17:11:02 +0000 2017",
+                "favourites_count": 5644,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 20274,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1023269989111881728/NcI9zHAK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023269989111881728/NcI9zHAK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/942079634690146304/1532695813",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Aug 05 22:17:32 +0000 2018",
+                "id": 1026230754563375104,
+                "id_str": "1026230754563375104",
+                "text": "Traduccion del comunicado de Demi! @ddlovato DEMI LOVATO https://t.co/VADGBS0C8A",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "ddlovato",
+                            "name": "Demi Lovato",
+                            "id": 21111883,
+                            "id_str": "21111883",
+                            "indices": [
+                                35,
+                                44
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1026230694123433989,
+                            "id_str": "1026230694123433989",
+                            "indices": [
+                                57,
+                                80
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dj3nYQzUcAUyObM.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dj3nYQzUcAUyObM.jpg",
+                            "url": "https://t.co/VADGBS0C8A",
+                            "display_url": "pic.twitter.com/VADGBS0C8A",
+                            "expanded_url": "https://twitter.com/Jaack_trouble/status/1026230754563375104/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 800,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 453,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1365,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1026230694123433989,
+                            "id_str": "1026230694123433989",
+                            "indices": [
+                                57,
+                                80
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Dj3nYQzUcAUyObM.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Dj3nYQzUcAUyObM.jpg",
+                            "url": "https://t.co/VADGBS0C8A",
+                            "display_url": "pic.twitter.com/VADGBS0C8A",
+                            "expanded_url": "https://twitter.com/Jaack_trouble/status/1026230754563375104/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 800,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 453,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1365,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 483383569,
+                    "id_str": "483383569",
+                    "name": "\ud835\udcd9\ud835\udcea\ud835\udcec\ud835\udcf4\ud835\udcf2\ud835\udcee\u2728",
+                    "screen_name": "Jaack_trouble",
+                    "location": "CDMX",
+                    "description": "Bienvenido has llegado en el momento justo, el lugar indicado. No todo lo rico engorda, no todo lo bueno es pecado\u261d\ufe0f MEDICINA IPN. \u2764",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 332,
+                    "friends_count": 408,
+                    "listed_count": 2,
+                    "created_at": "Sat Feb 04 23:32:59 +0000 2012",
+                    "favourites_count": 5138,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 6173,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/974843898144153600/OPipFf8i_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/974843898144153600/OPipFf8i_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/483383569/1509290684",
+                    "profile_link_color": "F58EA8",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 842,
+                "favorite_count": 7202,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 842,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:27 +0000 2018",
+            "id": 1026563676738863104,
+            "id_str": "1026563676738863104",
+            "text": "RT @zarya_22: six #MTVHottest Demi Lovato https://t.co/XzLhaYQa8n",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MTVHottest",
+                        "indices": [
+                            18,
+                            29
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "zarya_22",
+                        "name": "\u0417\u0430\u0440\u044f",
+                        "id": 4784221223,
+                        "id_str": "4784221223",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1026562973647753216,
+                        "id_str": "1026562973647753216",
+                        "indices": [
+                            42,
+                            65
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dj8VlefX0AAs4kZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dj8VlefX0AAs4kZ.jpg",
+                        "url": "https://t.co/XzLhaYQa8n",
+                        "display_url": "pic.twitter.com/XzLhaYQa8n",
+                        "expanded_url": "https://twitter.com/zarya_22/status/1026563289998868485/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 500,
+                                "h": 276,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 500,
+                                "h": 276,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 500,
+                                "h": 276,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1026563289998868485,
+                        "source_status_id_str": "1026563289998868485",
+                        "source_user_id": 4784221223,
+                        "source_user_id_str": "4784221223"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1026562973647753216,
+                        "id_str": "1026562973647753216",
+                        "indices": [
+                            42,
+                            65
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dj8VlefX0AAs4kZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dj8VlefX0AAs4kZ.jpg",
+                        "url": "https://t.co/XzLhaYQa8n",
+                        "display_url": "pic.twitter.com/XzLhaYQa8n",
+                        "expanded_url": "https://twitter.com/zarya_22/status/1026563289998868485/photo/1",
+                        "type": "animated_gif",
+                        "sizes": {
+                            "small": {
+                                "w": 500,
+                                "h": 276,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 500,
+                                "h": 276,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 500,
+                                "h": 276,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1026563289998868485,
+                        "source_status_id_str": "1026563289998868485",
+                        "source_user_id": 4784221223,
+                        "source_user_id_str": "4784221223",
+                        "video_info": {
+                            "aspect_ratio": [
+                                125,
+                                69
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/Dj8VlefX0AAs4kZ.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "cs",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2233172449,
+                "id_str": "2233172449",
+                "name": "\u0431\u0435\u0433\u0443\u0449\u0438\u0439 \u0437\u0430 \u0432\u043e\u043b\u0447\u043e\u043d\u043a\u043e\u043c",
+                "screen_name": "Hermioneman",
+                "location": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u043e\u0441\u0441\u0438\u044f",
+                "description": "\ud83c\udf38\u0421\u043d\u0430\u0447\u0430\u043b\u0430 \u043e \u0433\u043b\u0430\u0432\u043d\u043e\u043c: \u044f \u0440\u0435\u0430\u043b\u0438\u0441\u0442. \u0412\u044b\u0434\u0430\u0439 \u0447\u0442\u043e-\u043d\u0438\u0431\u0443\u0434\u044c, \u0438 \u043f\u0443\u0441\u0442\u044c \u0432\u0435\u0441\u044c \u043c\u0438\u0440 \u044d\u0442\u043e \u043f\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u0443\u0435\u0442\ud83c\udf38 \u0411\u0443\u0434\u0443\u0449\u0438\u0439 \u0432\u0440\u0430\u0447-\u043f\u0435\u0434\u0438\u0430\u0442\u0440 \ud83d\udc8e Selena,Monsta X,BTS,Blackpink\ud83d\udc9e\n \u041c\u043e\u044f \u041b\u043e\u0440\u0435\u043d @zarya_22 \u2764\ufe0f",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3883,
+                "friends_count": 2950,
+                "listed_count": 28,
+                "created_at": "Fri Dec 06 15:41:00 +0000 2013",
+                "favourites_count": 12914,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 34500,
+                "lang": "ru",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1026541548555694080/UTJECmsb_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026541548555694080/UTJECmsb_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2233172449/1532974585",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Aug 06 20:18:55 +0000 2018",
+                "id": 1026563289998868485,
+                "id_str": "1026563289998868485",
+                "text": "six #MTVHottest Demi Lovato https://t.co/XzLhaYQa8n",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "MTVHottest",
+                            "indices": [
+                                4,
+                                15
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1026562973647753216,
+                            "id_str": "1026562973647753216",
+                            "indices": [
+                                28,
+                                51
+                            ],
+                            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dj8VlefX0AAs4kZ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dj8VlefX0AAs4kZ.jpg",
+                            "url": "https://t.co/XzLhaYQa8n",
+                            "display_url": "pic.twitter.com/XzLhaYQa8n",
+                            "expanded_url": "https://twitter.com/zarya_22/status/1026563289998868485/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 500,
+                                    "h": 276,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 500,
+                                    "h": 276,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 500,
+                                    "h": 276,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1026562973647753216,
+                            "id_str": "1026562973647753216",
+                            "indices": [
+                                28,
+                                51
+                            ],
+                            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dj8VlefX0AAs4kZ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dj8VlefX0AAs4kZ.jpg",
+                            "url": "https://t.co/XzLhaYQa8n",
+                            "display_url": "pic.twitter.com/XzLhaYQa8n",
+                            "expanded_url": "https://twitter.com/zarya_22/status/1026563289998868485/photo/1",
+                            "type": "animated_gif",
+                            "sizes": {
+                                "small": {
+                                    "w": 500,
+                                    "h": 276,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 500,
+                                    "h": 276,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 500,
+                                    "h": 276,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    125,
+                                    69
+                                ],
+                                "variants": [
+                                    {
+                                        "bitrate": 0,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/tweet_video/Dj8VlefX0AAs4kZ.mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "cs",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 4784221223,
+                    "id_str": "4784221223",
+                    "name": "\u0417\u0430\u0440\u044f",
+                    "screen_name": "zarya_22",
+                    "location": "",
+                    "description": "tell me you love me\n#lovatic #selenator\n\u041c\u043e\u044f \u041a\u0430\u043c\u0437 @Hermioneman\ud83d\udc9c",
+                    "url": "https://t.co/QQqHCRHbvZ",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/QQqHCRHbvZ",
+                                    "expanded_url": "https://vk.com/shadyfifthharmonyfacts",
+                                    "display_url": "vk.com/shadyfifthharm\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 695,
+                    "friends_count": 926,
+                    "listed_count": 6,
+                    "created_at": "Tue Jan 12 12:45:17 +0000 2016",
+                    "favourites_count": 16198,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 10451,
+                    "lang": "ru",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "ACDED6",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1023539396556070912/vVbK_3i3_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023539396556070912/vVbK_3i3_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4784221223/1532865765",
+                    "profile_link_color": "000000",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "cs"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "cs"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:27 +0000 2018",
+            "id": 1026563676692725760,
+            "id_str": "1026563676692725760",
+            "text": "RT @CMONPUDDlN: demi\u2019s team is going to work on getting rid of all of the toxic people in demi\u2019s life ah yes i cant wait to see miss lovato\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CMONPUDDlN",
+                        "name": "dom!",
+                        "id": 77815015,
+                        "id_str": "77815015",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1249309309,
+                "id_str": "1249309309",
+                "name": "Praying for Demi \ud83c\uddeb\ud83c\uddf7",
+                "screen_name": "tinimechijorge",
+                "location": "Alexandra",
+                "description": "Abraz\u00e9 Tini \ud83d\udc98 26/03/17. I've seen Harry 13/03/18 Demi 4/06/2018 @ddlovato @zaynmalik @TiniStoessel Alexandra \ud83d\udc6d \ud83c\uddf2\ud83c\udde8",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1208,
+                "friends_count": 2939,
+                "listed_count": 6,
+                "created_at": "Thu Mar 07 15:01:19 +0000 2013",
+                "favourites_count": 35840,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 54425,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1003378118025981952/Jgg5UldR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003378118025981952/Jgg5UldR_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249309309/1528613098",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Aug 06 16:37:08 +0000 2018",
+                "id": 1026507476781416448,
+                "id_str": "1026507476781416448",
+                "text": "demi\u2019s team is going to work on getting rid of all of the toxic people in demi\u2019s life ah yes i cant wait to see mis\u2026 https://t.co/TC5rdlYqNY",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/TC5rdlYqNY",
+                            "expanded_url": "https://twitter.com/i/web/status/1026507476781416448",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 77815015,
+                    "id_str": "77815015",
+                    "name": "dom!",
+                    "screen_name": "CMONPUDDlN",
+                    "location": "abby alyssa vanessa",
+                    "description": "ddlovato: @cmonpuddln No I will not perform Instruction! SHUT UP!",
+                    "url": "https://t.co/ND9AFDtuIw",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/ND9AFDtuIw",
+                                    "expanded_url": "https://twitter.com/cmonpuddln/status/992234279152308224?s=21",
+                                    "display_url": "twitter.com/cmonpuddln/sta\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 11125,
+                    "friends_count": 635,
+                    "listed_count": 314,
+                    "created_at": "Sun Sep 27 19:46:42 +0000 2009",
+                    "favourites_count": 93663,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 198762,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1023780038003458049/-3BUpgl6_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023780038003458049/-3BUpgl6_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/77815015/1533527941",
+                    "profile_link_color": "9266CC",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "FFFFFF",
+                    "profile_text_color": "CC4FCC",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "regular"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 82,
+                "favorite_count": 453,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 82,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:27 +0000 2018",
+            "id": 1026563675128246274,
+            "id_str": "1026563675128246274",
+            "text": "RT @soph1900: @demilovatfa I loved this hair!!! It\u2019s perfect!!! She looks perfect #MTVHottest Demi Lovato",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MTVHottest",
+                        "indices": [
+                            82,
+                            93
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "soph1900",
+                        "name": "\ud835\ude1a\ud835\ude30\ud835\ude31\ud835\ude29 \ud835\ude2d\ud835\ude30\ud835\ude37\ud835\ude26\ud835\ude34 \ud835\ude0b\ud835\ude26\ud835\ude2e\ud835\ude2a\ud83d\udc9a\ud835\ude17\ud835\ude33\ud835\ude22\ud835\ude3a 4 \ud835\ude0b\ud835\ude26\ud835\ude2e\ud835\ude2a\u266b",
+                        "id": 3020468667,
+                        "id_str": "3020468667",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "demilovatfa",
+                        "name": "Demi LovaTo Fans",
+                        "id": 2429840214,
+                        "id_str": "2429840214",
+                        "indices": [
+                            14,
+                            26
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 477184123,
+                "id_str": "477184123",
+                "name": "Mojca",
+                "screen_name": "MojcaaMojcaa",
+                "location": "Republic of Slovenia",
+                "description": "The only goal in life is to meet Demi Lovato. #fact",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 21,
+                "friends_count": 35,
+                "listed_count": 0,
+                "created_at": "Sat Jan 28 22:51:21 +0000 2012",
+                "favourites_count": 536,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 486,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "642D8B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1022371236867973120/kO2E5OMd_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022371236867973120/kO2E5OMd_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/477184123/1527231410",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "65B0DA",
+                "profile_sidebar_fill_color": "7AC3EE",
+                "profile_text_color": "3D1957",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Aug 06 19:57:04 +0000 2018",
+                "id": 1026557790066757632,
+                "id_str": "1026557790066757632",
+                "text": "@demilovatfa I loved this hair!!! It\u2019s perfect!!! She looks perfect #MTVHottest Demi Lovato",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "MTVHottest",
+                            "indices": [
+                                68,
+                                79
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "demilovatfa",
+                            "name": "Demi LovaTo Fans",
+                            "id": 2429840214,
+                            "id_str": "2429840214",
+                            "indices": [
+                                0,
+                                12
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1026556687715627009,
+                "in_reply_to_status_id_str": "1026556687715627009",
+                "in_reply_to_user_id": 2429840214,
+                "in_reply_to_user_id_str": "2429840214",
+                "in_reply_to_screen_name": "demilovatfa",
+                "user": {
+                    "id": 3020468667,
+                    "id_str": "3020468667",
+                    "name": "\ud835\ude1a\ud835\ude30\ud835\ude31\ud835\ude29 \ud835\ude2d\ud835\ude30\ud835\ude37\ud835\ude26\ud835\ude34 \ud835\ude0b\ud835\ude26\ud835\ude2e\ud835\ude2a\ud83d\udc9a\ud835\ude17\ud835\ude33\ud835\ude22\ud835\ude3a 4 \ud835\ude0b\ud835\ude26\ud835\ude2e\ud835\ude2a\u266b",
+                    "screen_name": "soph1900",
+                    "location": "Juliets balcony with Ross | UK",
+                    "description": "SawR5 3/3/14met Ryland!&11/10/15 I met them they were amazing I\u2764\ufe0fthem Ross tweeted me14/7/13 R5 followed again 11-10-15 JustinB followed16.10.16 TheVampsfollow",
+                    "url": "https://t.co/P3rVAapJWq",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/P3rVAapJWq",
+                                    "expanded_url": "http://www.r5rocks.com/",
+                                    "display_url": "r5rocks.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1797,
+                    "friends_count": 2492,
+                    "listed_count": 28,
+                    "created_at": "Thu Feb 05 21:02:53 +0000 2015",
+                    "favourites_count": 131,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 57777,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1024744184744501248/T--FABXE_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024744184744501248/T--FABXE_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3020468667/1533153638",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:26 +0000 2018",
+            "id": 1026563671156314115,
+            "id_str": "1026563671156314115",
+            "text": "RT @ABC: NEW: Demi Lovato posts statement on Instagram, first since being hospitalized for a suspected drug overdose: \"I want to thank God\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ABC",
+                        "name": "ABC News",
+                        "id": 28785486,
+                        "id_str": "28785486",
+                        "indices": [
+                            3,
+                            7
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 942079634690146304,
+                "id_str": "942079634690146304",
+                "name": "Aitana Manrique",
+                "screen_name": "AitanaManriqueB",
+                "location": "Alicante, Espa\u00f1a",
+                "description": "SG: Se tu misma, no hay nadie mejor\nNo ser\u00e9 perfecta, pero siempre soy yo misma\n#STAYSTRONG #LOVATIC\n+ ARIANA G,JUSTIN B,MICHAEL JACKSON,SACMJJ #LOVEMUSIC\ud83d\udc9f\ud83d\ude3b\ud83d\ude0d",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 605,
+                "friends_count": 1404,
+                "listed_count": 0,
+                "created_at": "Sat Dec 16 17:11:02 +0000 2017",
+                "favourites_count": 5644,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 20274,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1023269989111881728/NcI9zHAK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023269989111881728/NcI9zHAK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/942079634690146304/1532695813",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Aug 05 21:27:40 +0000 2018",
+                "id": 1026218202488090627,
+                "id_str": "1026218202488090627",
+                "text": "NEW: Demi Lovato posts statement on Instagram, first since being hospitalized for a suspected drug overdose: \"I wan\u2026 https://t.co/R9zWBSuYId",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/R9zWBSuYId",
+                            "expanded_url": "https://twitter.com/i/web/status/1026218202488090627",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 28785486,
+                    "id_str": "28785486",
+                    "name": "ABC News",
+                    "screen_name": "ABC",
+                    "location": "New York City / Worldwide",
+                    "description": "All the news and information you need to see, curated by the @ABC News team. Instagram: https://t.co/pPlGmNHztz",
+                    "url": "https://t.co/7mnR2AtpOn",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/7mnR2AtpOn",
+                                    "expanded_url": "http://abcnews.com",
+                                    "display_url": "abcnews.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/pPlGmNHztz",
+                                    "expanded_url": "https://www.instagram.com/abcnews",
+                                    "display_url": "instagram.com/abcnews",
+                                    "indices": [
+                                        88,
+                                        111
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 13808104,
+                    "friends_count": 577,
+                    "listed_count": 53715,
+                    "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+                    "favourites_count": 53,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 217289,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "6E8EB5",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/877547979363758080/ny06RNTT_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/877547979363758080/ny06RNTT_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+                    "profile_link_color": "336699",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "regular"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 6930,
+                "favorite_count": 30177,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 6930,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:25 +0000 2018",
+            "id": 1026563664961265665,
+            "id_str": "1026563664961265665",
+            "text": "RT @LyricsSlap: Stone Cold | Demi Lovato https://t.co/WS9M64yWP0",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "LyricsSlap",
+                        "name": "Lyrics",
+                        "id": 3315432473,
+                        "id_str": "3315432473",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1023561636299194368,
+                        "id_str": "1023561636299194368",
+                        "indices": [
+                            41,
+                            64
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DjRr4plUwAAgKYK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DjRr4plUwAAgKYK.jpg",
+                        "url": "https://t.co/WS9M64yWP0",
+                        "display_url": "pic.twitter.com/WS9M64yWP0",
+                        "expanded_url": "https://twitter.com/LyricsSlap/status/1023561658826813440/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1023561658826813440,
+                        "source_status_id_str": "1023561658826813440",
+                        "source_user_id": 3315432473,
+                        "source_user_id_str": "3315432473"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1023561636299194368,
+                        "id_str": "1023561636299194368",
+                        "indices": [
+                            41,
+                            64
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DjRr4plUwAAgKYK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DjRr4plUwAAgKYK.jpg",
+                        "url": "https://t.co/WS9M64yWP0",
+                        "display_url": "pic.twitter.com/WS9M64yWP0",
+                        "expanded_url": "https://twitter.com/LyricsSlap/status/1023561658826813440/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1023561658826813440,
+                        "source_status_id_str": "1023561658826813440",
+                        "source_user_id": 3315432473,
+                        "source_user_id_str": "3315432473"
+                    },
+                    {
+                        "id": 1023561636311789568,
+                        "id_str": "1023561636311789568",
+                        "indices": [
+                            41,
+                            64
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DjRr4poU8AAoudZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DjRr4poU8AAoudZ.jpg",
+                        "url": "https://t.co/WS9M64yWP0",
+                        "display_url": "pic.twitter.com/WS9M64yWP0",
+                        "expanded_url": "https://twitter.com/LyricsSlap/status/1023561658826813440/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1023561658826813440,
+                        "source_status_id_str": "1023561658826813440",
+                        "source_user_id": 3315432473,
+                        "source_user_id_str": "3315432473"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3159025259,
+                "id_str": "3159025259",
+                "name": "ove",
+                "screen_name": "camillebsz58",
+                "location": "France",
+                "description": "revenge",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 914,
+                "friends_count": 3023,
+                "listed_count": 3,
+                "created_at": "Sun Apr 12 09:26:37 +0000 2015",
+                "favourites_count": 31487,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4776,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1003924376205578241/6YOmyxlh_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003924376205578241/6YOmyxlh_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3159025259/1532924934",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Jul 29 13:31:30 +0000 2018",
+                "id": 1023561658826813440,
+                "id_str": "1023561658826813440",
+                "text": "Stone Cold | Demi Lovato https://t.co/WS9M64yWP0",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1023561636299194368,
+                            "id_str": "1023561636299194368",
+                            "indices": [
+                                25,
+                                48
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DjRr4plUwAAgKYK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DjRr4plUwAAgKYK.jpg",
+                            "url": "https://t.co/WS9M64yWP0",
+                            "display_url": "pic.twitter.com/WS9M64yWP0",
+                            "expanded_url": "https://twitter.com/LyricsSlap/status/1023561658826813440/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1023561636299194368,
+                            "id_str": "1023561636299194368",
+                            "indices": [
+                                25,
+                                48
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DjRr4plUwAAgKYK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DjRr4plUwAAgKYK.jpg",
+                            "url": "https://t.co/WS9M64yWP0",
+                            "display_url": "pic.twitter.com/WS9M64yWP0",
+                            "expanded_url": "https://twitter.com/LyricsSlap/status/1023561658826813440/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1023561636311789568,
+                            "id_str": "1023561636311789568",
+                            "indices": [
+                                25,
+                                48
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/DjRr4poU8AAoudZ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/DjRr4poU8AAoudZ.jpg",
+                            "url": "https://t.co/WS9M64yWP0",
+                            "display_url": "pic.twitter.com/WS9M64yWP0",
+                            "expanded_url": "https://twitter.com/LyricsSlap/status/1023561658826813440/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 3315432473,
+                    "id_str": "3315432473",
+                    "name": "Lyrics",
+                    "screen_name": "LyricsSlap",
+                    "location": "turn on notification",
+                    "description": "Every single song is tied to a memory. Dm for promotion \u2709\ufe0f",
+                    "url": "https://t.co/PRnkeBGbTJ",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/PRnkeBGbTJ",
+                                    "expanded_url": "http://Instagram.com/lyricsmsgs",
+                                    "display_url": "Instagram.com/lyricsmsgs",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 193898,
+                    "friends_count": 558,
+                    "listed_count": 334,
+                    "created_at": "Tue Jun 09 17:32:18 +0000 2015",
+                    "favourites_count": 335,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1555,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/964012774559858688/Hk1NqrrG_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/964012774559858688/Hk1NqrrG_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3315432473/1520477763",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2788,
+                "favorite_count": 4686,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2788,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:20 +0000 2018",
+            "id": 1026563645952679936,
+            "id_str": "1026563645952679936",
+            "text": "RT @mxrcelly_: sober - demi lovato https://t.co/SxOEC7thv3",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "mxrcelly_",
+                        "name": "mar",
+                        "id": 2998647124,
+                        "id_str": "2998647124",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1025454037108486144,
+                        "id_str": "1025454037108486144",
+                        "indices": [
+                            35,
+                            58
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1025454037108486144/pu/img/yQK9jMASZ3_vUQxf.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1025454037108486144/pu/img/yQK9jMASZ3_vUQxf.jpg",
+                        "url": "https://t.co/SxOEC7thv3",
+                        "display_url": "pic.twitter.com/SxOEC7thv3",
+                        "expanded_url": "https://twitter.com/mxrcelly_/status/1025454187369431040/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 383,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1025454187369431040,
+                        "source_status_id_str": "1025454187369431040",
+                        "source_user_id": 2998647124,
+                        "source_user_id_str": "2998647124"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1025454037108486144,
+                        "id_str": "1025454037108486144",
+                        "indices": [
+                            35,
+                            58
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1025454037108486144/pu/img/yQK9jMASZ3_vUQxf.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1025454037108486144/pu/img/yQK9jMASZ3_vUQxf.jpg",
+                        "url": "https://t.co/SxOEC7thv3",
+                        "display_url": "pic.twitter.com/SxOEC7thv3",
+                        "expanded_url": "https://twitter.com/mxrcelly_/status/1025454187369431040/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 383,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1025454187369431040,
+                        "source_status_id_str": "1025454187369431040",
+                        "source_user_id": 2998647124,
+                        "source_user_id_str": "2998647124",
+                        "video_info": {
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration_millis": 95100,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1025454037108486144/pu/pl/8H0DmXSLpfQZmwM5.m3u8?tag=4"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1025454037108486144/pu/vid/720x1280/NKfvhwFgLOrJTmvK.mp4?tag=4"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1025454037108486144/pu/vid/180x320/AB89PpOXHgEhcpwU.mp4?tag=4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1025454037108486144/pu/vid/360x640/APqGzhHRHkcp1Nwe.mp4?tag=4"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false,
+                            "source_user": {
+                                "id": 2998647124,
+                                "id_str": "2998647124",
+                                "name": "mar",
+                                "screen_name": "mxrcelly_",
+                                "location": "Rio de Janeiro, Brasil",
+                                "description": "Singer // 3M // \u00d8W Contrate: marcellygarcia2@gmail.com",
+                                "url": "https://t.co/0sG7sWqg4X",
+                                "entities": {
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "url": "https://t.co/0sG7sWqg4X",
+                                                "expanded_url": "http://youtube.com/soumarcellygarcia",
+                                                "display_url": "youtube.com/soumarcellygar\u2026",
+                                                "indices": [
+                                                    0,
+                                                    23
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "description": {
+                                        "urls": []
+                                    }
+                                },
+                                "protected": false,
+                                "followers_count": 27755,
+                                "friends_count": 5982,
+                                "listed_count": 191,
+                                "created_at": "Sun Jan 25 21:03:29 +0000 2015",
+                                "favourites_count": 53156,
+                                "utc_offset": null,
+                                "time_zone": null,
+                                "geo_enabled": true,
+                                "verified": false,
+                                "statuses_count": 58282,
+                                "lang": "pt",
+                                "contributors_enabled": false,
+                                "is_translator": false,
+                                "is_translation_enabled": false,
+                                "profile_background_color": "000000",
+                                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                                "profile_background_tile": false,
+                                "profile_image_url": "http://pbs.twimg.com/profile_images/1026511564399173632/RN5zxaB-_normal.jpg",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026511564399173632/RN5zxaB-_normal.jpg",
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2998647124/1532660824",
+                                "profile_link_color": "BEBEBE",
+                                "profile_sidebar_border_color": "000000",
+                                "profile_sidebar_fill_color": "000000",
+                                "profile_text_color": "000000",
+                                "profile_use_background_image": false,
+                                "has_extended_profile": true,
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "following": false,
+                                "follow_request_sent": false,
+                                "notifications": false,
+                                "translator_type": "none"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "cs",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 923714812885991425,
+                "id_str": "923714812885991425",
+                "name": "borges",
+                "screen_name": "Cinthiaaaxxx",
+                "location": "na merda",
+                "description": "aquariana\u2652",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 194,
+                "friends_count": 147,
+                "listed_count": 0,
+                "created_at": "Fri Oct 27 00:55:47 +0000 2017",
+                "favourites_count": 133,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 264,
+                "lang": "pt",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1019233965654335489/VHK0lilp_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019233965654335489/VHK0lilp_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/923714812885991425/1533586158",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Aug 03 18:51:44 +0000 2018",
+                "id": 1025454187369431040,
+                "id_str": "1025454187369431040",
+                "text": "sober - demi lovato https://t.co/SxOEC7thv3",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1025454037108486144,
+                            "id_str": "1025454037108486144",
+                            "indices": [
+                                20,
+                                43
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1025454037108486144/pu/img/yQK9jMASZ3_vUQxf.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1025454037108486144/pu/img/yQK9jMASZ3_vUQxf.jpg",
+                            "url": "https://t.co/SxOEC7thv3",
+                            "display_url": "pic.twitter.com/SxOEC7thv3",
+                            "expanded_url": "https://twitter.com/mxrcelly_/status/1025454187369431040/video/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 383,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 675,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1025454037108486144,
+                            "id_str": "1025454037108486144",
+                            "indices": [
+                                20,
+                                43
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1025454037108486144/pu/img/yQK9jMASZ3_vUQxf.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1025454037108486144/pu/img/yQK9jMASZ3_vUQxf.jpg",
+                            "url": "https://t.co/SxOEC7thv3",
+                            "display_url": "pic.twitter.com/SxOEC7thv3",
+                            "expanded_url": "https://twitter.com/mxrcelly_/status/1025454187369431040/video/1",
+                            "type": "video",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 383,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 675,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    9,
+                                    16
+                                ],
+                                "duration_millis": 95100,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1025454037108486144/pu/pl/8H0DmXSLpfQZmwM5.m3u8?tag=4"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1025454037108486144/pu/vid/720x1280/NKfvhwFgLOrJTmvK.mp4?tag=4"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1025454037108486144/pu/vid/180x320/AB89PpOXHgEhcpwU.mp4?tag=4"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1025454037108486144/pu/vid/360x640/APqGzhHRHkcp1Nwe.mp4?tag=4"
+                                    }
+                                ]
+                            },
+                            "additional_media_info": {
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "cs",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2998647124,
+                    "id_str": "2998647124",
+                    "name": "mar",
+                    "screen_name": "mxrcelly_",
+                    "location": "Rio de Janeiro, Brasil",
+                    "description": "Singer // 3M // \u00d8W Contrate: marcellygarcia2@gmail.com",
+                    "url": "https://t.co/0sG7sWqg4X",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/0sG7sWqg4X",
+                                    "expanded_url": "http://youtube.com/soumarcellygarcia",
+                                    "display_url": "youtube.com/soumarcellygar\u2026",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 27755,
+                    "friends_count": 5982,
+                    "listed_count": 191,
+                    "created_at": "Sun Jan 25 21:03:29 +0000 2015",
+                    "favourites_count": 53156,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 58282,
+                    "lang": "pt",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1026511564399173632/RN5zxaB-_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026511564399173632/RN5zxaB-_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2998647124/1532660824",
+                    "profile_link_color": "BEBEBE",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4738,
+                "favorite_count": 13962,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "cs"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4738,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "cs"
+        },
+        {
+            "created_at": "Mon Aug 06 20:20:18 +0000 2018",
+            "id": 1026563639241842688,
+            "id_str": "1026563639241842688",
+            "text": "RT @TIME: Demi Lovato released from hospital after reported overdose https://t.co/LEEBMCuhgf",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "TIME",
+                        "name": "TIME",
+                        "id": 14293310,
+                        "id_str": "14293310",
+                        "indices": [
+                            3,
+                            8
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/LEEBMCuhgf",
+                        "expanded_url": "https://ti.me/2KxsBbh",
+                        "display_url": "ti.me/2KxsBbh",
+                        "indices": [
+                            69,
+                            92
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 981865671440195584,
+                "id_str": "981865671440195584",
+                "name": "halie nicole",
+                "screen_name": "ItsHalesOk",
+                "location": "TN & NC",
+                "description": "\u201cI think, being from east Tennessee, you're kinda born with a little lonesome in your soul, in your blood. You know you've got that Appalachian soul.\u201d -AM-",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 56,
+                "friends_count": 170,
+                "listed_count": 0,
+                "created_at": "Thu Apr 05 12:06:33 +0000 2018",
+                "favourites_count": 2566,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1951,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1022309217850597376/YL5JtCzi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022309217850597376/YL5JtCzi_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/981865671440195584/1532355726",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Aug 06 20:15:08 +0000 2018",
+                "id": 1026562337476632576,
+                "id_str": "1026562337476632576",
+                "text": "Demi Lovato released from hospital after reported overdose https://t.co/LEEBMCuhgf",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/LEEBMCuhgf",
+                            "expanded_url": "https://ti.me/2KxsBbh",
+                            "display_url": "ti.me/2KxsBbh",
+                            "indices": [
+                                59,
+                                82
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 14293310,
+                    "id_str": "14293310",
+                    "name": "TIME",
+                    "screen_name": "TIME",
+                    "location": "",
+                    "description": "Breaking news and current events from around the globe. Hosted by TIME staff.",
+                    "url": "http://t.co/4aYbUuAeSh",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/4aYbUuAeSh",
+                                    "expanded_url": "http://www.time.com",
+                                    "display_url": "time.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 15312790,
+                    "friends_count": 843,
+                    "listed_count": 101499,
+                    "created_at": "Thu Apr 03 13:54:30 +0000 2008",
+                    "favourites_count": 555,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 292960,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "CC0000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1403546591",
+                    "profile_link_color": "DE3333",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "D9D9D9",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "regular"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 27,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.042,
+        "max_id": 1026563733508816896,
+        "max_id_str": "1026563733508816896",
+        "next_results": "?max_id=1026563639241842687&q=demi%20lovato&include_entities=1",
+        "query": "demi+lovato",
+        "refresh_url": "?since_id=1026563733508816896&q=demi%20lovato&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
